@@ -2,11 +2,17 @@
 ## 1. Interactive description of the work
 #### This work controls the radius of the circle and the proportion of red and green by the volume and frequency of the audio. The visual effect is that when the volume is high, the circle will become larger, and the proportion of red and green inside will also change. It also includes pause and play buttons, which can be clicked to control the playback of the entire animation. In addition, the slider below can be used to control the volume of the overall playback of the song.
 
+
+
 ## 2. Details of personal methods.
 #### For this project, I used audio to expand our group work "Apple Tree".
 #### In terms of song selection, I first studied the background of "Apple Tree" in depth. The author of "Apple Tree", Shemza, was deeply inspired by Islamic geometric patterns. His apple tree is not realistic, but is expressed with repeated circles (apples), lines (branches) and grid structures, echoing the order and rhythm in Islamic art. My initial idea was to use a song with Islamic style that could be closely connected with this artwork. In the end, I found Hamza El Din's "Escalay", which has the winding melody of traditional Islamic music and is also rhythmic, suitable for expressing the geometric repetition in the painting. The whole song is nearly 13 minutes long, so I captured more than 40 seconds of it and added it to my work.
+Audio link: https://youtu.be/glC37ei6zA0?si=mTXGOXt1KQXnxgSH
+
 
 #### For the expression of animation, I referred to this Gif image. I planned to express the "apples" on the apple tree in this way, which can also reflect the rhythm of the music.
+!(/Users/jia/Documents/GitHub/9103_Jia_work/gif)
+Gif Link: https://dribbble.com/shots/4897456-Music-Visualizer
 
 #### For the entire code, I basically added content based on the group code. Only the page refresh detectRefresh() was deleted, and the button "play" was used to define the restart of work.
 
