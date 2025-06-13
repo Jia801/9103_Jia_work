@@ -11,7 +11,8 @@ Audio link: https://youtu.be/glC37ei6zA0?si=mTXGOXt1KQXnxgSH
 
 
 #### For the expression of animation, I referred to this Gif image. I planned to express the "apples" on the apple tree in this way, which can also reflect the rhythm of the music.
-!(/Users/jia/Documents/GitHub/9103_Jia_work/gif)
+![](./gif/1.gif)
+
 Gif Link: https://dribbble.com/shots/4897456-Music-Visualizer
 
 #### For the entire code, I basically added content based on the group code. Only the page refresh detectRefresh() was deleted, and the button "play" was used to define the restart of work.
